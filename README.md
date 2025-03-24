@@ -36,10 +36,11 @@ wget https://raw.githubusercontent.com/sipalingtestnet/ritual/main/ritual.sh -O 
 ### 2. Make it executable
 
 ```bash
-wget https://raw.githubusercontent.com/sipalingtestnet/ritual/main/ritual.sh -O ritual.sh```
+chmod +x ritual.sh
 ```
 
 ### 3. Run
 
-```./ritual.sh
+```bash 
+./ritual.sh
 ```
