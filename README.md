@@ -1,7 +1,9 @@
 # 🚀 Ritual Node Installer Script
 
-## 📝 Description
-This script simplifies Ritual node installation.
+## 📝 Requirements
+- EVM Wallet with ETH tokens on Base mainnet (ensure a minimum of $15-25 is in your wallet)
+- Git, Docker, and Docker Compose (code management & deployment)
+
 
 
 ## 💻 System Requirements
