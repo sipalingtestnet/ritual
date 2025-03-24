@@ -42,4 +42,4 @@ wget https://raw.githubusercontent.com/sipalingtestnet/ritual/main/ritual.sh -O 
 ### 3. Run
 
 ```./ritual.sh
-````
+```
